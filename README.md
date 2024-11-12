@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @izumiando
-- 👀 I’m currently interested in bioinformatics, computational biology, and computer graphics.
+- 👀 I’m currently interested in bioinformatics, computational biology, and machine learning.
 - 💞️ I’m looking to collaborate on bioinformatics or computer art projects!
 - 📫 How to reach me: email me at izumi.ando _at_ mail.utoronto.ca
 - ⚡ Fun fact: I eat blue cake every year for my birthday.
